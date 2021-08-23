@@ -6,6 +6,11 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bonsaibegone", "Source\Bonsaibegone.csproj", "{D7D21B4A-1DA7-41D8-B202-C58CA8FA62AA}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C196C096-10F0-43CD-B264-8125EBB1D223}"
+	ProjectSection(SolutionItems) = preProject
+		Source\LICENSE.md = Source\LICENSE.md
+		Source\README.md = Source\README.md
+		Source\SteamConfig.json = Source\SteamConfig.json
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
